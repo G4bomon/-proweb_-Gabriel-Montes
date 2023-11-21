@@ -1,5 +1,6 @@
 # -proweb_-Gabriel-Montes
 lo primero es dirigirse al directorio que se va a usar
+
 [![Screenshot-22.png](https://i.postimg.cc/6Qc2RZkb/Screenshot-22.png)](https://postimg.cc/DWWw3Sy1)
 
 despues se determina como repositorio de git con git init
